@@ -4,7 +4,7 @@
         <description><![CDATA[Construction pictures and news]]></description>
         <link>https://thegrid.ai/construction/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 05:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2015 05:19:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/construction/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[111 Wacker Transfer Floor]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/construction/111-wacker-transfer-floor/index.html</link>
             <guid isPermaLink="false">248a063a-bd3f-4b55-a1e5-451bfb2aae48</guid>
             <pubDate>Fri, 04 Dec 2015 05:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CONSTRUCTION]]></title>
-            <description><![CDATA[<article><h1>CONSTRUCTION</h1><p>Beta testing for posting construction pictures and related news.</p></article>]]></description>
-            <link>https://thegrid.ai/construction/construction/index.html</link>
-            <guid isPermaLink="false">25017729-466d-45ca-98ea-6403b7def9d3</guid>
-            <pubDate>Fri, 04 Dec 2015 05:03:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
