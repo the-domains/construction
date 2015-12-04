@@ -1,0 +1,28 @@
+name: Construction
+favicon: null
+layout_spectrum: 0.09036407759413123
+typography_spectrum: 0.44479287322610617
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.46167158777825534
+  lightness: 0.2185010458342731
+  saturation: 0.607480060774833
+  rhythmicContrast: 0.31732030864804983
+purpose: []
