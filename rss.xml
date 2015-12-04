@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Construction]]></title>
-        <description><![CDATA[Construction]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Construction pictures and news]]></title>
+        <description><![CDATA[Construction pictures and news]]></description>
+        <link>https://thegrid.ai/construction/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 05:03:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Dec 2015 05:11:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/construction/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[111 Wacker Transfer Floor]]></title>
+            <description><![CDATA[<article><h1>111 Wacker Transfer Floor</h1><p>Example of Post-Tensioning tendons used to reinforce concrete.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ceb55a5788aaf28daecea2451e3b22a176c9de3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/construction/111-wacker-transfer-floor/index.html</link>
+            <guid isPermaLink="false">248a063a-bd3f-4b55-a1e5-451bfb2aae48</guid>
+            <pubDate>Fri, 04 Dec 2015 05:10:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CONSTRUCTION]]></title>
             <description><![CDATA[<article><h1>CONSTRUCTION</h1><p>Beta testing for posting construction pictures and related news.</p></article>]]></description>
-            <link>undefinedconstruction/index.html</link>
+            <link>https://thegrid.ai/construction/construction/index.html</link>
             <guid isPermaLink="false">25017729-466d-45ca-98ea-6403b7def9d3</guid>
             <pubDate>Fri, 04 Dec 2015 05:03:08 GMT</pubDate>
         </item>
