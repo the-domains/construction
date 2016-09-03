@@ -1,16 +1,16 @@
-layout_spectrum: 0.6225932540837675
-typography_spectrum: 0.4575569196604192
+layout_spectrum: 0.03451349725946784
+typography_spectrum: 0.11026717838831246
 color:
   brandColors:
-    - '#5A1F00'
-    - '#D1570D'
-    - '#FDE792'
-    - '#477725'
-    - '#A9CC66'
-  brandStrength: 0.7986726115923375
-  lightness: 0.9706925994250923
-  saturation: 0.7219404452480376
-  rhythmicContrast: 0.828783371951431
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+  brandStrength: 0.9974767495878041
+  lightness: 0.3610717379488051
+  saturation: 0.34354725386947393
+  rhythmicContrast: 0.06022199196740985
 name: Construction
 favicon: null
 title: Construction pictures and news
