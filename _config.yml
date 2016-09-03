@@ -1,7 +1,18 @@
+layout_spectrum: 0.6225932540837675
+typography_spectrum: 0.4575569196604192
+color:
+  brandColors:
+    - '#5A1F00'
+    - '#D1570D'
+    - '#FDE792'
+    - '#477725'
+    - '#A9CC66'
+  brandStrength: 0.7986726115923375
+  lightness: 0.9706925994250923
+  saturation: 0.7219404452480376
+  rhythmicContrast: 0.828783371951431
 name: Construction
 favicon: null
-layout_spectrum: 0.50335
-typography_spectrum: 0.76034
 title: Construction pictures and news
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9bb9ad'
-    - '#ffffff'
-    - '#464145'
-    - '#74757a'
-    - '#c4dfd6'
-  brandStrength: 0.1875
-  lightness: 0.375
-  saturation: 0.5625
-  rhythmicContrast: 0.25
 purpose: []
